@@ -1,0 +1,17 @@
+collection-helpers
+------------------
+
+A Clojure library with various helpers for working with collections.
+
+Usage
+-----
+
+  [ndrwdn/collection-helpers "0.1.0-SNAPSHOT"]
+
+License
+-------
+
+Copyright © 2014 Andrew Dean
+
+Distributed under the Eclipse Public License either version 1.0 or (at
+your option) any later version.
